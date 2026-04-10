@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="Página-1" id="N6wKYCE9xngcb6ZOcSik">
-    <mxGraphModel dx="1800" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1641" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,6 +76,15 @@
         </mxCell>
         <mxCell id="YoeM9yT1SfQSWx2AgMG3-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SDKs" vertex="1">
           <mxGeometry height="30" width="120" x="230.98" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="CHXd-OfFcx-F06-KGv-E-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=34;" value="Azure Active Directory" vertex="1">
+          <mxGeometry height="110" width="410" x="790" y="284" as="geometry" />
+        </mxCell>
+        <mxCell id="CHXd-OfFcx-F06-KGv-E-2" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;endArrow=open;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CHXd-OfFcx-F06-KGv-E-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="338.79" as="sourcePoint" />
+            <mxPoint x="780" y="339" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

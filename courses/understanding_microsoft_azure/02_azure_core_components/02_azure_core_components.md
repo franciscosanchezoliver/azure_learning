@@ -75,4 +75,9 @@ Azure, using an unified language.
 
 [Edit Diagram](diagrams/AzureResourceManager.drawio)
 
+The Resource Manager checks privileges against "Azure Active Directory" anytime
+an user wants to create, manage, or delete a resource.
+
+Azure Active Directory is Microsoft's cloud-based identity and access management.
+
 
