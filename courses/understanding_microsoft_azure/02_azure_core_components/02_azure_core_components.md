@@ -78,6 +78,76 @@ Azure, using an unified language.
 The Resource Manager checks privileges against "Azure Active Directory" anytime
 an user wants to create, manage, or delete a resource.
 
-Azure Active Directory is Microsoft's cloud-based identity and access management.
+Azure Active Directory is Microsoft's cloud-based identity and access management
+service that enables employees to securely sign in and access applications.
 
+It easily integrates with the on-premise Active Directory to extend its 
+capabilities.
 
+## Core Offerings
+
+Core services include:
+- Compute.
+- Storage.
+- Databases.
+- Networking.
+
+## Compute
+
+Refers to a category of services that enable you to provision and manage 
+cloud resources, like the infrastructure needed to run your applications 
+without the need to manage the physical hardware.
+
+Azure Compute has a variety of offerings, including:
+- Virtual Machines.
+- Container Instances.
+- Kubernetes Services.
+- etc
+
+## Storage
+
+Its the managed service in Azure responsible for providing a range of readily 
+available cloud storage solutions on the use case, from virtual machines images
+down to multimedia files.
+
+Azure Storage has a variety of offerings, including:
+- Azure Data Lake Storage.
+- Azure Files.
+- Azure Blob Storage.
+- etc
+
+## Databases
+
+These are powerful tools for storing structured and semi-structured data by
+providing a central repository to quickly retrieve and manage your data.
+
+Azure Database has a variety of offerings, including:
+- Cosmos Database.
+- SQL Database.
+- SQL Managed Instances.
+- etc
+
+## Networking
+
+It's all about connecting different resources, whether that be within the 
+Azure Platform or on-premise networks.
+
+Azure network is your digital highway, connecting different parts of your cloud
+envirnoment just as roads connect places.
+
+Azure Networking has a variety of offerings, including:
+- Content Delivery Network.
+- Virtual Network Manager.
+- VPN Gateway.
+- etc.
+
+-----
+
+### Exercise:
+
+Which of the following is Microsoft's cloud-based identity and access management service?
+
+[ ] Azure Compute
+[X] Microsoft Entra ID (formerly Azure Active Directory)
+[ ] Azure Networking
+[ ] Azure Storage
